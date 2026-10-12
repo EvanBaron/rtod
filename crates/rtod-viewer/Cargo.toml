@@ -1,0 +1,10 @@
+[package]
+name = "rtod-viewer"
+version.workspace = true
+edition.workspace = true
+rust-version.workspace = true
+license.workspace = true
+
+[dependencies]
+rtod-api.workspace = true
+minifb.workspace = true

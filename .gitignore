@@ -1,0 +1,14 @@
+target
+
+# Direnv
+.envrc
+.direnv/
+.venv/
+
+# Python
+__pycache__/
+
+# Model weights
+*.pt
+*.onnx
+*.safetensors
